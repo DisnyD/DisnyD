@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DisnyD
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning GenAI, ML, DL
-- 📫 How to reach me - didnyd@outlook.com
+- 📫 How to reach me - disnyd@outlook.com
 - 😄 Pronouns: ... Ms.
 - ⚡ Fun fact: ... 
 
